@@ -73,17 +73,17 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<div align="left">
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ValupadasuSaiabbhiram&theme=ambient_gradient&show_icons=true)
-</div>
 
-<div align="center">
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=ambient_gradient)
-<div>
 
-<div align="center">
+
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ValupadasuSaiabbhiram&theme=ambient_gradient)
-<div>
+
 
 <!--- snake -->
 <div align="center">
