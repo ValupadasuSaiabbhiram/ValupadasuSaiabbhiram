@@ -74,13 +74,13 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 
-<div style="display: flex; justify-content: center; align-items: center;">
+<div>
  
-  <a href="https://github.com/ValupadasuSaiabbhiram" style="margin-right: 100px;">
+  <a href="https://github.com/ValupadasuSaiabbhiram" align="left">
     <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=ValupadasuSaiabbhiram&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=ambient_gradient"/>
   </a>
  
-  <a href="https://github.com/ValupadasuSaiabbhiram" style="margin-left: 100px;">
+  <a href="https://github.com/ValupadasuSaiabbhiram" align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValupadasuSaiabbhiram&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=ambient_gradient"/>
   </a>
 
