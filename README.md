@@ -29,15 +29,11 @@
 
 - ⚡ Fun fact **" I am funny "**
 
-
-
 ## ✍🏻 Programming Quote
 ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
-
-
+---
 ### 🛠 &nbsp;Tech Stack
-
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
@@ -61,31 +57,26 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
 
+---
 <!--spotify-->
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
-### Spotify Playing 🎧
+
+
+### 🎧 Spotify Playing 
 [![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/user/1112981871)
 
+---
 
 ### ⚙️ &nbsp;GitHub Analytics
-<!--
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=valupadasusaiabbhiram&show_icons=true&locale=en&" alt="valupadasusaiabbhiram" /></p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ValupadasuSaiabbhiram&theme=ambient_gradient&show_icons=true)  &nbsp;
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ValupadasuSaiabbhiram&layout=compact&theme=ambient_gradient)
-
-
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ValupadasuSaiabbhiram&theme=ambient_gradient)
--->
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=valupadasusaiabbhiram&show_icons=true&locale=en&theme=ambient_gradient" alt="valupadasusaiabbhiram" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=valupadasusaiabbhiram&show_icons=true&locale=en&layout=compact&theme=ambient_gradient" alt="valupadasusaiabbhiram" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=valupadasusaiabbhiram&show_icons=true&locale=en&layout=compact&" alt="valupadasusaiabbhiram" /></p>
 <br/><br/>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=valupadasusaiabbhiram&theme=ambient_gradient" alt="valupadasusaiabbhiram" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=valupadasusaiabbhiram&" alt="valupadasusaiabbhiram" /></p>
 
+---
 
 <!--- snake -->
 <div align="center">
