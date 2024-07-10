@@ -8,6 +8,7 @@
 
 <h1 align="center">Hi 👋, I'm Sai abbhiram Valupadasu</h1>
 
+<h3 align="center">A passionate software developer from India</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=valupadasusaiabbhiram&label=Profile%20views&color=0e75b6&style=flat" alt="valupadasusaiabbhiram" /> </p>
@@ -72,17 +73,22 @@
 
 
 ### ⚙️ &nbsp;GitHub Analytics
+<!--
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ValupadasuSaiabbhiram&theme=ambient_gradient&show_icons=true)  &nbsp;
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ValupadasuSaiabbhiram&theme=ambient_gradient&show_icons=true)
-
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=ambient_gradient)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ValupadasuSaiabbhiram&layout=compact&theme=ambient_gradient)
 
 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ValupadasuSaiabbhiram&theme=ambient_gradient)
+-->
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=valupadasusaiabbhiram&show_icons=true&locale=en&theme=ambient_gradient" alt="valupadasusaiabbhiram" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=valupadasusaiabbhiram&show_icons=true&locale=en&layout=compact&theme=ambient_gradient" alt="valupadasusaiabbhiram" /></p>
+<br/><br/>
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=valupadasusaiabbhiram&theme=ambient_gradient" alt="valupadasusaiabbhiram" /></p>
 
 
 <!--- snake -->
