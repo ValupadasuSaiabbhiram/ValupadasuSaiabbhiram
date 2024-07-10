@@ -23,10 +23,6 @@
 
 - 🌱 I’m currently learning **Web Development, Data Analytics.**
 
-- 👯 I’m looking to collaborate on the responsive frontend, full-stack, data science projects
-
-- 🫱🏻‍🫲🏻 I’m looking for help with React, NodeJS, MongoDB, Express JS
-
 - 💬 Ask me about **react**
 
 - 📫 How to reach me **valupadasusaiabbhiram@gmail.com**
