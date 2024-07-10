@@ -73,24 +73,16 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-
-<div>
- 
-  <a href="https://github.com/ValupadasuSaiabbhiram" align="left">
-    <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=ValupadasuSaiabbhiram&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=ambient_gradient"/>
-  </a>
- 
-  <a href="https://github.com/ValupadasuSaiabbhiram" align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValupadasuSaiabbhiram&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=ambient_gradient"/>
-  </a>
-
+<div align="left">
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ValupadasuSaiabbhiram&theme=ambient_gradient&show_icons=true)
 </div>
-<br/>
 
 <div align="center">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=ambient_gradient)
+<div>
 
+<div align="center">
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ValupadasuSaiabbhiram&theme=ambient_gradient)
-
 <div>
 
 <!--- snake -->
