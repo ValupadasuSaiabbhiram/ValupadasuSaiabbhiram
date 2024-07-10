@@ -76,18 +76,18 @@
 
 <div style="display: flex; justify-content: center; align-items: center;">
  
-  <a href="https://github.com/ValupadasuSaiabbhiram" style="margin-right: 20px;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ValupadasuSaiabbhiram&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=ambient_gradient"/>
+  <a href="https://github.com/ValupadasuSaiabbhiram" style="margin-right: 100px;">
+    <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=ValupadasuSaiabbhiram&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=ambient_gradient"/>
   </a>
  
-  <a href="https://github.com/ValupadasuSaiabbhiram" style="margin-left: 20px;">
+  <a href="https://github.com/ValupadasuSaiabbhiram" style="margin-left: 100px;">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValupadasuSaiabbhiram&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=ambient_gradient"/>
   </a>
 
 </div>
 <br/>
 
-<div align="center" height="180em">
+<div align="center">
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ValupadasuSaiabbhiram&theme=ambient_gradient)
 
