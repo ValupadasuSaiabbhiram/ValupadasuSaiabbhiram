@@ -1,20 +1,24 @@
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <!-- banner -->
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
 
----
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jet+brains+mono&pause=1000&color=F74444&background=FF848400&random=false&width=435&lines=I'm+a+Web+Developer+and+Data+Analyst.)](https://git.io/typing-svg)
+<h1 align="center">Hi 👋, I'm Sai abbhiram Valupadasu</h1>
 
----
 
-<!--about me-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=valupadasusaiabbhiram&label=Profile%20views&color=0e75b6&style=flat" alt="valupadasusaiabbhiram" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jet+brains+mono&pause=1000&color=F74444&background=FF848400&random=false&width=700&lines=I'm+a+Web+Developer+and+Data+Analyst+enthusiast.)](https://git.io/typing-svg)
+
+
+<!--about me-->
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 - 🌱 I’m currently learning **Web Development, Data Analytics.**
 
@@ -26,18 +30,14 @@
 
 - 📫 How to reach me **valupadasusaiabbhiram@gmail.com**
 
-- ⚡ Fun fact **" Iam funny "**
+- ⚡ Fun fact **" I am funny "**
 
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-
-
----
 
 ## ✍🏻 Programming Quote
 ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
----
+
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -64,7 +64,12 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
 
----
+<!--spotify-->
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
+### Spotify Playing 🎧
+[![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/user/1112981871)
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -80,31 +85,23 @@
   </a>
 
 </div>
+<br/>
+
+<div align="center" height="180em">
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ValupadasuSaiabbhiram&theme=ambient_gradient)
 
-
----
-
-<!-- Skills -->
 <div>
-    ![]
-
-</div>
-
----
-<!--spotify-->
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
-### Spotify Playing 🎧
-[![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/user/1112981871)
-
----
-
-
 
 <!--- snake -->
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
+
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+![repo's](https://github-readme-stats.vercel.app/api/pin/?username=ValupadasuSaiabbhiram&repo=ValupadasuSaiabbhiram&cache_seconds=86400&theme=ambient_gradient)
