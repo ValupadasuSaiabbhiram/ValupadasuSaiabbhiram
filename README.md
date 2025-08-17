@@ -38,33 +38,33 @@
 
 ## 🛠 Tech Stack  
 
-**Languages:**  
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)  
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=FFA518)  
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)  
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B)  
-![R](https://img.shields.io/badge/-R-05122A?style=flat&logo=r)  
+### 💻 Languages  
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=FFA518)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B)&nbsp;
+![R](https://img.shields.io/badge/-R-05122A?style=flat&logo=r)
 
-**Frameworks & Libraries:**  
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)  
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)  
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)  
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)  
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)  
+### ⚡ Frameworks & Libraries  
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)
 
-**Tools & Platforms:**  
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)  
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)  
-![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code)  
-![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)  
-![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide)  
+### 🛠 Tools & Platforms  
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code)&nbsp;
+![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
+![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide)
 
-**Design Tools:**  
-![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)  
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)  
-![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)  
-
+### 🎨 Design  
+![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
+  
 ---
 
 ## 🎧 Spotify Playing  
@@ -77,16 +77,22 @@
 ## ⚙️ GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=valupadasusaiabbhiram&show_icons=true&theme=default" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=valupadasusaiabbhiram&layout=compact" alt="Top Languages" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=valupadasusaiabbhiram&show_icons=true&theme=default" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=valupadasusaiabbhiram&layout=compact&theme=default" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=valupadasusaiabbhiram&theme=default" alt="GitHub Streak" />
 </p>
+
 
 ---
 
