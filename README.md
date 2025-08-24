@@ -83,7 +83,7 @@
         <img src="https://github-readme-stats.vercel.app/api?username=valupadasusaiabbhiram&show_icons=true&theme=default" alt="GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=valupadasusaiabbhiram&layout=compact&theme=default" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ValupadasuSaiabbhiram&layout=compact&theme=default" alt="Top Languages" />
       </td>
     </tr>
   </table>
